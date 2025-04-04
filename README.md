@@ -27,8 +27,11 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
 Linguagem: Python
 Bibliotecas utilizadas:
+
 pandas → Manipulação e análise de dados.
+
 numpy → Operações matemáticas e estatísticas.
+
 matplotlib e seaborn → Visualização de dados.
 
 Excel: Para uma visualização mais ampla e rápida.
@@ -48,16 +51,24 @@ O conjunto de dados pode ser encontrado no diretório 🔗 [Dataset](https://git
 
 ## 📝 Metodologia
 Coleta e limpeza dos dados → Remoção de dados inconsistentes e criação dos bancos de dados temporários.
+
 Análise exploratória de dados (EDA) → Entendimento de todo o banco de dados e como cada coluna funciona, após o entendimento, é feito a criação de colunas personalizadas.
+
 Visualizações → Uso de gráficos e medições estatísticas
 
 ## 📈 Principais Insights
 Gênero com maior mortalidade
+
 Faixa etária com maior mortalidade
+
 Raça/Cor com maior mortalidade
+
 Local de ocorrência com maior mortalidade
+
 Município de ocorrência com maior mortalidade
+
 Quantificação de assistência médica
+
 Quantificação da Causa da morte
 
 ## 💻 Como Executar o Projeto
