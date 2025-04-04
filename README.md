@@ -79,4 +79,5 @@ Baixe todos os arquivos de banco de dados, mude o local dos arquivos no código 
 Se tiver dúvidas ou sugestões, entre em contato:
 
 pauloricardo200419@gmail.com (Paulo Ramos)
+
 thais.cristineg7@gmail.com (Thaís Gomes)
