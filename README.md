@@ -22,9 +22,6 @@
 ## 📌 Sobre o Projeto
 Este projeto tem como objetivo analisar e entregar uma proposta analítica sobre os dados de mortalidade do ano de 2023.
 
-A análise inclui:
-Em desenvolvimento
-
 ## 🛠️ Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
@@ -55,7 +52,13 @@ Análise exploratória de dados (EDA) → Entendimento de todo o banco de dados 
 Visualizações → Uso de gráficos e medições estatísticas
 
 ## 📈 Principais Insights
-Em desenvolvimento
+Gênero com maior mortalidade
+Faixa etária com maior mortalidade
+Raça/Cor com maior mortalidade
+Local de ocorrência com maior mortalidade
+Município de ocorrência com maior mortalidade
+Quantificação de assistência médica
+Quantificação da Causa da morte
 
 ## 💻 Como Executar o Projeto
 Baixe todos os arquivos de banco de dados, mude o local dos arquivos no código e execute os códigos.
@@ -64,3 +67,4 @@ Baixe todos os arquivos de banco de dados, mude o local dos arquivos no código 
 Se tiver dúvidas ou sugestões, entre em contato:
 
 pauloricardo200419@gmail.com (Paulo Ramos)
+thais.cristineg7@gmail.com (Thaís Gomes)
