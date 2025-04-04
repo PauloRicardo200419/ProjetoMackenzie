@@ -5,22 +5,22 @@
 🔗 [Download da base de dados openDataSus](https://drive.google.com/drive/folders/1kb1suuU1c3t5pp4A-tatdLLpm6ADbPsJ?usp=sharing)
 
 ## 📚 Sumário
-[📌 Sobre o Projeto]
+[📌 Sobre o Projeto](https://github.com/PauloRicardo200419/ProjetoMackenzie#-sobre-o-projeto)
 
-[🛠️ Tecnologias Utilizadas]
+[🛠️ Tecnologias Utilizadas](https://github.com/PauloRicardo200419/ProjetoMackenzie#%EF%B8%8F-tecnologias-utilizadas)
 
-[📊 Conjunto de Dados]
+[📊 Conjunto de Dados](https://github.com/PauloRicardo200419/ProjetoMackenzie#-conjunto-de-dados)
 
-[🧐 Metodologia]
+[📝 Metodologia](https://github.com/PauloRicardo200419/ProjetoMackenzie#-metodologia)
 
-[📈 Principais Insights]
+[📈 Principais Insights](https://github.com/PauloRicardo200419/ProjetoMackenzie#-principais-insights)
 
-[🚀 Como Executar o Projeto]
+[🚀 Como Executar o Projeto](https://github.com/PauloRicardo200419/ProjetoMackenzie#-como-executar-o-projeto)
 
-[📬 Contato]
+[📬 Contato](https://github.com/PauloRicardo200419/ProjetoMackenzie#-contato)
 
 ## 📌 Sobre o Projeto
-Este projeto tem como objetivo analisar e entregar uma proposta analítica sobre os dados de Marketing Funnel e E-Commerce da plataforma Olist.
+Este projeto tem como objetivo analisar e entregar uma proposta analítica sobre os dados de mortalidade do ano de 2023.
 
 A análise inclui:
 Em desenvolvimento
@@ -62,4 +62,5 @@ Baixe todos os arquivos de banco de dados, mude o local dos arquivos no código 
 
 ## 📬 Contato
 Se tiver dúvidas ou sugestões, entre em contato:
+
 pauloricardo200419@gmail.com (Paulo Ramos)
