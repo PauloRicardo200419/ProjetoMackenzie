@@ -2,7 +2,7 @@
 
 > ⚠️ Arquivo muito grande para o GitHub. Acesse pelo link abaixo:
 
-🔗 [Download da base de dados](https://drive.google.com/drive/folders/1kb1suuU1c3t5pp4A-tatdLLpm6ADbPsJ?usp=sharing)
+🔗 [Download da base de dados openDataSus](https://drive.google.com/drive/folders/1kb1suuU1c3t5pp4A-tatdLLpm6ADbPsJ?usp=sharing)
 
 ## 📚 Sumário
 [📌 Sobre o Projeto]
@@ -47,7 +47,7 @@ Os dados utilizados neste projeto foram coletados do OpenDataSUS e incluem infor
 
 ☠️ Dados das causas da morte
 
-O conjunto de dados pode ser encontrado no diretório [dataset/] e pelo link 🔗 [Download da base de dados](https://drive.google.com/drive/folders/1kb1suuU1c3t5pp4A-tatdLLpm6ADbPsJ?usp=sharing).
+O conjunto de dados pode ser encontrado no diretório 🔗 [Dataset](https://github.com/PauloRicardo200419/ProjetoMackenzie/tree/main/Dataset) e pelo link 🔗 [Download da base de dados openDataSus](https://drive.google.com/drive/folders/1kb1suuU1c3t5pp4A-tatdLLpm6ADbPsJ?usp=sharing).
 
 ## 📝 Metodologia
 Coleta e limpeza dos dados → Remoção de dados inconsistentes e criação dos bancos de dados temporários.
