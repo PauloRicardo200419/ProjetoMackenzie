@@ -6,11 +6,17 @@
 
 ## 📚 Sumário
 [📌 Sobre o Projeto]
+
 [🛠️ Tecnologias Utilizadas]
+
 [📊 Conjunto de Dados]
+
 [🧐 Metodologia]
+
 [📈 Principais Insights]
+
 [🚀 Como Executar o Projeto]
+
 [📬 Contato]
 
 ## 📌 Sobre o Projeto
@@ -34,8 +40,11 @@ Excel: Para uma visualização mais ampla e rápida.
 Os dados utilizados neste projeto foram coletados do OpenDataSUS e incluem informações como:
 
 🏥 Dados de mortalidade
+
 🏙️ Dados geográficos
+
 🧑‍⚕️ Dados simples dos pacientes
+
 ☠️ Dados das causas da morte
 
 O conjunto de dados pode ser encontrado no diretório [dataset/] e pelo link 🔗 [Download da base de dados](https://drive.google.com/drive/folders/1kb1suuU1c3t5pp4A-tatdLLpm6ADbPsJ?usp=sharing).
