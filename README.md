@@ -26,6 +26,7 @@ Este projeto tem como objetivo analisar e entregar uma proposta analítica sobre
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e bibliotecas:
 
 Linguagem: Python
+
 Bibliotecas utilizadas:
 
 pandas → Manipulação e análise de dados.
